@@ -1,0 +1,36 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio / Rider / VS Code
+*.csproj
+*.sln
+*.slnx
+*.unityproj
+.user
+.userprefs
+*.pidb
+*.suo
+*.aps
+*.pdb
+*.opendb
+*.opensdf
+.vs/
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
+
+# Plastic SCM
+.plastic/
+
+# User settings
+UserSettings/
+
+# End of configured Unity gitignore
